@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @smashone
-- 👀 I’m interested in rust for Terra
-- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on grid bots
 - 📫 How to reach me Tw:@gweizee
 
